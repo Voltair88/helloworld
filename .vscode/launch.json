@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Tree",
+      "request": "launch",
+      "mainClass": "Tree",
+      "projectName": "test_b521be45"
+    },
+    {
+      "type": "java",
       "name": "Launch Challenge2",
       "request": "launch",
       "mainClass": "Challenge2",
