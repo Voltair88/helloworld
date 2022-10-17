@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Tree",
+      "request": "launch",
+      "mainClass": "com.mattias.challenges.Tree",
+      "projectName": "helloworld_7d30b900"
+    },
+    {
+      "type": "java",
+      "name": "Launch check",
+      "request": "launch",
+      "mainClass": "com.student.project.check",
+      "projectName": "helloworld_7d30b900"
+    },
+    {
+      "type": "java",
+      "name": "Launch Check",
+      "request": "launch",
+      "mainClass": "Student.Check",
+      "projectName": "helloworld_7d30b900"
+    },
+    {
+      "type": "java",
       "name": "Launch Challenge1",
       "request": "launch",
       "mainClass": "Challenge1",
